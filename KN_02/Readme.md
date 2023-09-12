@@ -65,5 +65,5 @@ Abgabe nachdem Sie alle Schritte des Moduls durchgeführt haben. Screenshots:
 
 ## Diese URL zeigt ihnen die Informationen von PHP an. Wenn diese Seite funktioniert, zeigt dies, dass das PHP-Modul funktioniert und Sie nun dynamische Seiten hosten können.
 
-![Alt text](<Screenshot 2023-09-05 153817-1.png>)
+![Alt text](php.png)
 
