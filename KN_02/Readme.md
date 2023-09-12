@@ -5,7 +5,7 @@ Abgabe nachdem Sie alle Schritte des Moduls durchgeführt haben. Screenshots:
 
 ## HTML-Seite, inkl. URL
 
-![HTML Seite](Html seite beweis.png)
+![Alt text](KN02.png)
 
 Hier ist die Liste der EC2-Instanz
 
