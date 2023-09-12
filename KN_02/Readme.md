@@ -47,20 +47,17 @@ Abgabe nachdem Sie alle Schritte des Moduls durchgeführt haben. Screenshots:
 
 ## Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des ersten Schlüssels
 
-![Alt text](<ssh befehl.png>)
-![Alt text](<ssh 1.png>)
+![Alt text](<Schlüssel 1.png>)
+
 
 ## Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des zweiten Schlüssels
 
-![Alt text](<befehle ssh.png>)
+![Alt text](<schlüssel 2.png>)
 
 ## Screenshot der Instanz-Detail (oder Liste), so dass der verwendete Schlüssel sichtbar ist.
 
 ![Alt text](<key zeigen fpr ssh-1.png>)
 
-# C) Installation von Web- und Datenbankserver
-
-## Erstellen Sie Screenshots der funktionierenden Webseiten (mit sichtbarer URL)
 
 ## Diese URL zeigt ihnen die Informationen von Apache an. Wenn die Seite funktioniert, zeigt dies, dass Apache installiert wurde und funktioniert.
 
