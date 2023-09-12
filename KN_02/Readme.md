@@ -70,6 +70,3 @@ Abgabe nachdem Sie alle Schritte des Moduls durchgeführt haben. Screenshots:
 
 ![Alt text](<Screenshot 2023-09-05 153817-1.png>)
 
-## Diese URL zeigt ihnen die Datenbank-Benutzer. Wenn diese Seite funktioniert, zeigt es Ihnen, dass die Datenbank-Verbindung funktioniert.
-
-![Datenbank-Benutzer](Fotos_C/KN02_Datenbank-Benutzer.JPG)
