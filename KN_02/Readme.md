@@ -11,7 +11,7 @@ Hier ist die Liste der EC2-Instanz
 
 ## Liste der EC2-Instanzen
 
-![Alt text](liste ec2 instanz.png)
+(![Alt text](<liste ec2 instanz.png>))
 
 ## Details der Web Server-Instanz (öffentliche IP sichtbar)
 
