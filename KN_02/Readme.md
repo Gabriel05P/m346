@@ -67,3 +67,4 @@ Abgabe nachdem Sie alle Schritte des Moduls durchgeführt haben. Screenshots:
 
 ![Alt text](php.png)
 
+![Alt text](db-php.png)
