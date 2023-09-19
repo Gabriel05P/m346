@@ -20,3 +20,5 @@ cloud-init.yaml
 ![Alt text](<../Schlüssel Gabriel 2 funktioniert nicht.png>)
 
 ## Screenshot mit dem Auszug aus dem Cloud-Init-Log.
+
+![Alt text](image-2.png)
