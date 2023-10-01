@@ -9,7 +9,7 @@
 
 #### • Erklärung zu der Auswahl, so dass die Auswahl schlüssig ist.
 
-Ich habe mich für diese Instanzen entschieden weil, sie am Kostengünstigsten waren und genug für einen Kleinen Betrieb anboten. Da ich selber dies zum erstenmal gemacht habe, sind meine Instanzen keinenfalls perfekt. Jedoch habe ich geschaut das die Anforderungen erfüllt werden und es nicht zu viel oder zu wenig von allem hat.
+Ich habe mich für diese Instanzen entschieden, weil sie am kostengünstigsten waren und genug für einen kleinen Betrieb anboten. Da ich dies zum ersten Mal selbst gemacht habe, sind meine Instanzen keinesfalls perfekt. Allerdings habe ich darauf geachtet, dass die Anforderungen erfüllt werden und es weder zu viel noch zu wenig von allem gibt.
 
 Bei beiden Anbietern aws und azure bin ich gleich vorgegangen.
 
