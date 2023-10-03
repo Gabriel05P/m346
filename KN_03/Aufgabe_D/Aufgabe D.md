@@ -9,3 +9,7 @@ Web Server erstellt:
 MariaDB Beweis DBServer:
 
 ![Alt text](image-1.png)
+
+telnet Beweis DBServer:
+
+![Alt text](image-2.png)
