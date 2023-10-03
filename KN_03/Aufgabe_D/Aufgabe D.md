@@ -21,3 +21,6 @@ HTML Seite Webserver:
 info.php Webserver:
 
 ![Alt text](../inf_php_KN03.png)
+
+adminer Webserver:
+
