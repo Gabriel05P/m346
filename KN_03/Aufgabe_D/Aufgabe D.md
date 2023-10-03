@@ -5,3 +5,7 @@ Datenbank Server erstellt:
 Web Server erstellt:
 
 ![Alt text](../Webserver_KN03.png)
+
+ssh befehl für DBServer:
+
+![Alt text](image.png)
