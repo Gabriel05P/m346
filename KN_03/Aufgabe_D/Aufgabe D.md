@@ -6,6 +6,6 @@ Web Server erstellt:
 
 ![Alt text](../Webserver_KN03.png)
 
-ssh befehl für DBServer:
+MariaDB Beweis DBServer:
 
-![Alt text](image.png)
+![Alt text](image-1.png)
