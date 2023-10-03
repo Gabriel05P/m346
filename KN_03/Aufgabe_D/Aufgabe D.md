@@ -17,3 +17,7 @@ telnet Beweis DBServer:
 HTML Seite Webserver:
 
 ![Alt text](../Webserver_KN03.png)
+
+info.php Webserver:
+
+![Alt text](../inf_php_KN03.png)
