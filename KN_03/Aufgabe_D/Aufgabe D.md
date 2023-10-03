@@ -13,3 +13,7 @@ MariaDB Beweis DBServer:
 telnet Beweis DBServer:
 
 ![Alt text](image-2.png)
+
+HTML Seite Webserver:
+
+![Alt text](../Webserver_KN03.png)
