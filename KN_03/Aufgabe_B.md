@@ -3,7 +3,11 @@
 
 ![Alt text](image-4.png)
 
+![Alt text](image-7.png)
+
 ![Alt text](image-6.png)
+
+
 
 
 ## Ihre angepasste Cloud-init Konfiguration als Datei im Git-Repository.
