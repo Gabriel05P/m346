@@ -7,3 +7,6 @@ Screenshot der S3-Objekte im Bucket:
 Screenshot des Bildes im Browser (mit sichtbarer URL):
 
 ![Alt text](Baum_Bucket.png)
+
+Quelle Bild:
+https://unsplash.com/photos/green-leafed-tree-surrounded-by-fog-during-daytime-S297j2CsdlM
