@@ -1,4 +1,11 @@
 
+## Hier noch die richtige weise mit dem 2ten key aber man kommt mit dem ersten rein.
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+
 ## Ihre angepasste Cloud-init Konfiguration als Datei im Git-Repository.
 
 cloud-init.yaml
