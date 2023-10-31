@@ -32,5 +32,10 @@ Abgaben:
 Abgaben
 • Kategorisierung
 
+| Volume | Typ | Persistenz |
+| - | - | - |
+|EBS Root|Hot|Nein|
+|EBS Zusätzliches Volumen|Hot|Ja|
+|S3|Warm|Ja|
 
 • Erklärung/Begründung zu der Kategorisierung.
