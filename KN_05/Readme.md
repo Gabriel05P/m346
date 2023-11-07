@@ -41,3 +41,9 @@ Abgaben
 ![Alt text](infophp.png)
 ![Alt text](adminKN05.png)
 
+-Screenshot der Liste der Instanzen, wenn beide Instanzen gestoppt sind. Das Feld der
+öffentlichen IP und der Status (gestoppt) müssen sichtbar sein.
+
+![Alt text](Angehalten_DB.png)
+![Alt text](angehalten_WEB.png)
+
