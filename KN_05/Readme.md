@@ -20,4 +20,9 @@ Webserver IP-Adresse: 172.31.80.101
 
 ## C) Objekte und Instanzen erstellen
 
+Abgaben
+
+-Screenshot der Liste der Sicherheitsgruppe mit sprechenden Namen/Feldern
+
+![Alt text](image-1.png)
 
