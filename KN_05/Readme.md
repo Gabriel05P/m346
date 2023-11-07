@@ -16,7 +16,7 @@ Zwei definierte IPs für Web- und DB-Server/Instanz. Dazu braucht es keinen Scre
 einfach nur die beiden IPs als Text.
 
 Datenbank IP-Adresse: 172.31.46.155
-Webserver IP-Adresse: 172.31.46.233
+Webserver IP-Adresse: 172.31.46.156
 ## C) Objekte und Instanzen erstellen
 
 Abgaben
@@ -28,3 +28,9 @@ Abgaben
 -Screenshot der Inbound-Regel für die DB-Sicherheitsgruppe.
 
 ![Alt text](image-2.png)
+
+-Screenshot der Liste der Elastic IPs mit sprechenden Namen.
+
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+
