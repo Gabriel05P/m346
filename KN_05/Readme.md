@@ -26,3 +26,6 @@ Abgaben
 
 ![Alt text](image-1.png)
 
+-Screenshot der Inbound-Regel für die DB-Sicherheitsgruppe.
+
+![Alt text](image-2.png)
