@@ -47,3 +47,6 @@ Abgaben
 ![Alt text](Angehalten_DB.png)
 ![Alt text](angehalten_WEB.png)
 
+-Screenshot der Details beider Instanzen, so dass die Subnet ID sichtbar ist.
+
+![Alt text](Subnetz_AUfgabeC.png)
