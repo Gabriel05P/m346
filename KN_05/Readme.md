@@ -31,6 +31,6 @@ Abgaben
 
 -Screenshot der Liste der Elastic IPs mit sprechenden Namen.
 
-![Alt text](image-3.png)
-![Alt text](image-4.png)
+![Alt text](<Aufgabe C_Subnetz.png>)
+![Alt text](<Aufgabe C_SUbnetz2.png>)
 
