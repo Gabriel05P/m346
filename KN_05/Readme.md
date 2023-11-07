@@ -15,9 +15,8 @@ Screenshot der Subnetzen, die die Namen zeigen
 Zwei definierte IPs für Web- und DB-Server/Instanz. Dazu braucht es keinen Screenshot,
 einfach nur die beiden IPs als Text.
 
-Datenbank IP-Adresse: 172.31.80.100
-Webserver IP-Adresse: 172.31.80.101
-
+Datenbank IP-Adresse: 172.31.46.155
+Webserver IP-Adresse: 172.31.46.233
 ## C) Objekte und Instanzen erstellen
 
 Abgaben
