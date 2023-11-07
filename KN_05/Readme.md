@@ -55,7 +55,7 @@ Abgaben
 
 Die YAML dateien findet sie im Ordner KN05
 
-DB.yaml
+DB.yaml,
 WEB.yaml
 
 
