@@ -31,8 +31,8 @@ Abgaben
 
 -Screenshot der Liste der Elastic IPs mit sprechenden Namen.
 
-![Alt text](neuDB-IPadresse.png)
-![Alt text](WEB-neu-IP.png)
+![Alt text](<Elastic IP_web.png>)
+![Alt text](Elastic_db.png)
 
 -Zeigen Sie, dass Sie nun alle drei Seiten aufrufen können (index.html, info.php und db.php).
 
