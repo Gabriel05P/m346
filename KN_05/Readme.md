@@ -31,6 +31,12 @@ Abgaben
 
 -Screenshot der Liste der Elastic IPs mit sprechenden Namen.
 
-![Alt text](<Aufgabe C_Subnetz.png>)
-![Alt text](<Aufgabe C_SUbnetz2.png>)
+![Alt text](neuDB-IPadresse.png)
+![Alt text](WEB-neu-IP.png)
+
+-Zeigen Sie, dass Sie nun alle drei Seiten aufrufen können (index.html, info.php und db.php).
+
+![Alt text](HTML_neu.png)
+![Alt text](infophp.png)
+![Alt text](adminKN05.png)
 
